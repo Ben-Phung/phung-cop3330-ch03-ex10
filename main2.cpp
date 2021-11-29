@@ -11,7 +11,6 @@ using namespace std;
 int main() {
   string operation;
   double op1, op2;
-  double ans;
 
   cout << "Enter operation and two operands: ";
   cin >> operation >> op1 >> op2;
